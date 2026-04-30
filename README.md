@@ -162,16 +162,12 @@ Opens at `http://localhost:8501`
 
 ## 👤 Author
 
-**Anurag**  
-PGDM — Data Science  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Anurag Chakrabarti**  
+Data Analyst Trainee
+[LinkedIn](www.linkedin.com/in/anurag-chakrabarti-4919a7255) · [GitHub]([https://github.com/your-username](https://github.com/raugan))
 
 ---
 
 ## 📄 License
 
 MIT License — free to use, modify, and share with attribution.
-
----
-
-*Built as part of PGDM Data Science coursework. Dataset credit: The Movie Database (TMDB).*
