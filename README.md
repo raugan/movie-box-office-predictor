@@ -13,9 +13,11 @@
 
 ## 📸 App Preview
 
-| Prediction Screen | EDA Dashboard |
-|---|---|
-| ![App](screenshots/app_preview.png) | ![EDA](screenshots/eda_dashboard.png) |
+| Prediction Screen | EDA Dashboard | Model Evaluation |
+|---|---|---|
+| ![App](screenshots/app_preview.png) | ![EDA](screenshots/eda_dashboard.png) | ![Model](screenshots/model_evaluation.png) |
+
+![SHAP](screenshots/shap_explainability.png)
 
 ---
 
